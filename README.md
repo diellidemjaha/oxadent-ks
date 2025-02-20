@@ -1,4 +1,4 @@
 # oxadent-ks
 dental clinic website 
 
-![Screenshot](oxadent-screenshot.png)
+![Screenshot](oxadent-screenshot2.png)
